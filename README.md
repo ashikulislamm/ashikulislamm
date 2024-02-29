@@ -33,8 +33,6 @@ I am Ashikul Islam from Bangladesh . I am currently studying Bachelor of Science
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashikulislamm&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/ashikulislamm)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ashikulislamm)  
 
 
