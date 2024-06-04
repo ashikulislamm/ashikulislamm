@@ -1,6 +1,5 @@
 # Hi there 👋, This is Ashikul Islam
 ### Softwere Developer
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zenuncrack&label=Profile%20views&color=0e75b6&style=flat" alt="zenuncrack" /> </p>
 I am Ashikul Islam from Bangladesh . I am currently studying Bachelor of Science in Computer Science and Engineering in Ahsanullah University of Science and Technology. I am interested in Artificial Intellengence , Softwere Development , and Competitive Programing.
 
 
