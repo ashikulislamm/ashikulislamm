@@ -1,3 +1,5 @@
+(https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
+
 # Hi there 👋, This is Ashikul Islam
 ### Softwere Developer
 I am Ashikul Islam from Bangladesh . I am currently studying Bachelor of Science in Computer Science and Engineering in Ahsanullah University of Science and Technology. I am interested in Artificial Intellengence , Softwere Development , and Competitive Programing.
