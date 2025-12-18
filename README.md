@@ -3,10 +3,6 @@
 ### Softwere Developer
 I am Ashikul Islam from Bangladesh . I am currently studying Bachelor of Science in Computer Science and Engineering in Ahsanullah University of Science and Technology. I am interested in Artificial Intellengence , Softwere Development , and Competitive Programing.
 
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **Android, Java, Competitive Programming**
@@ -91,4 +87,7 @@ I am Ashikul Islam from Bangladesh . I am currently studying Bachelor of Science
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ashikulislamm)  
 
-
+## 📈 Contribution Activity  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenuncrack&theme=react-dark" />
+</p>
