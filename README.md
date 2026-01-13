@@ -81,11 +81,11 @@ I am Ashikul Islam from Bangladesh . I am currently studying Bachelor of Science
 
 <!---[![trophy](https://github-profile-trophy.vercel.app/?username=ashikulislamm)](https://github.com/ryo-ma/github-profile-trophy)---->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashikulislamm&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashikulislamm&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashikulislamm&show_icons=true)  
+![Streak Stats](https://streak-stats.demolab.com?user=ashikulislamm&theme=tokyonight)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ashikulislamm)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashikulislamm&layout=compact&theme=tokyonight) 
 
 ## 📈 Contribution Activity  
 <p align="center">
